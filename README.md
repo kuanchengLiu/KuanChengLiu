@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm KuanChengLiu.👋
 
-✨ A passionate Android/iOS App developer from Taiwan.
+✨ A passionate Android/iOS App developer from Taiwan. (ゝ∀･)
 
-🔭 I’m currently working on windows form, ASP.NET core and android app 
+🔭 I’m currently working on windows form, ASP.NET core and android app .
 
 ✨ Currently working hard on app technologies, learning Java, Kotlin and others.
 
@@ -33,15 +33,17 @@ Here are some ideas to get you started:
 ## Back-end Skills
 
 - ASP.NET core for sure. Although it's not my most interested skill.
-- Spring Framwork, learning hard..
+- Spring Framwork, learning hard.. ｡ﾟヽ(ﾟ´Д`)ﾉﾟ｡
 - OpenAPI Icon Build RESTful API with Swagger.
 - Transact-SQL(on Microsoft SQL Server)
 - Store procedure(Mincrosoft SQL Server Management Studio)
+- MySQL(on phpmyadmin)
 - SQLite
-- PHP but only on codeigniter framwork
+- PHP but only on codeigniter framwork.
 - IIS 7, for sure.
 
 ## Other Skills
-- Git Icon Git, for sure.
+- Git, for sure.
+- Apache Subversion.
 - Adobe XD Icon Adobe XD, used for design web and application views.
-- AngularJs and VueJs, life is difficult.
+- AngularJs and VueJs, life is difficult. ╮(╯_╰)╭
