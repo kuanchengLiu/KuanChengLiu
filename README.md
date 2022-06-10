@@ -47,3 +47,6 @@ Here are some ideas to get you started:
 - Apache Subversion.
 - Adobe XD Icon Adobe XD, used for design web and application views.
 - AngularJs and VueJs, life is difficult. ╮(╯_╰)╭
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuanchengliu&show_icons=true&locale=en&layout=compact" alt="kuanchengliu" /></p>
