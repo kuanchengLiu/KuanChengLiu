@@ -1,58 +1,42 @@
+# Tommy (KuanCheng) Liu 👋
+**Senior Software Engineer | Cloud-native & Observability Specialist**
 
-<!--
-**kuanchengLiu/KuanChengLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in designing and operating high-availability distributed systems on **Microsoft Azure**. My expertise lies at the intersection of **Backend Development**, **Kubernetes Platform Engineering**, and **Full-stack Observability**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there, I'm KuanChengLiu.👋
+### 🚀 Technical Focus
+* **Cloud Native:** Architecting and maintaining production workloads on **Azure Kubernetes Service (AKS)**.
+* **Observability:** Deep experience with **Elastic Stack (ECK)**—from deploying operators to optimizing hot/warm/cold storage strategies.
+* **Backend Engineering:** Building scalable microservices using **Node.js (TypeScript)**, **.NET**, and **Java/Spring**.
+* **Data & Messaging:** High-throughput integration with **Cosmos DB** and **Azure Service Bus**.
 
-✨ A passionate backend developer from Taiwan. (ゝ∀･)
+---
 
-🔭 I’m currently working on Azure cloud service, ASP.NET, Spring boot and android app.
+### 📝 Technical Deep Dives (Featured Articles)
+I enjoy documenting complex technical challenges and their solutions:
+* 🔹 **[Azure Service Bus: Performance Tuning & Batching Strategy](https://hackmd.io/@TommyLiu/r1rJ5jjJJg)** *Solved message size constraints and optimized throughput using custom batching logic.*
+* 🔹 **[Elastic Cloud on Kubernetes (ECK): Production Implementation](https://hackmd.io/@TommyLiu/SkTOIHw8Wg)** *A comprehensive guide to deploying and managing Elasticsearch/Kibana on K8s clusters.*
 
-🌱 I’m currently learning rust, kubernetes and ELK.
+---
 
-## Android App Skills
+### 🛠️ Toolbelt
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Node.js, TypeScript, C# (.NET), Java, Bash |
+| **Cloud/Infra** | Azure (AKS, Functions, Key Vault), Kubernetes, Docker, Helm, Terraform |
+| **Data** | Cosmos DB, SQL Server, Elasticsearch |
+| **DevOps** | Azure DevOps Pipelines, GitFlow, CI/CD Automation |
+| **Monitoring** | Elastic Stack (ELK), Kibana, Fleet, Prometheus/Grafana |
 
-- Kotlin and Java, for sure.
-- android mvvm, for sure.
-- RxJava, RxKotlin and LiveData, for sure, too.
-- Flutter, React Native that i have used before.
-- Material Design and Human Interface Guidelines on UI. Two of them are pretty, I prefer to let customers or users choose witch style they like.
-- Retrofit2 
+---
 
-## Back-end Skills
+### 📈 Stats
+![Tommy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuanchengliu&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kuanchengliu&show_icons=true&layout=compact&theme=radical)
 
-- ASP.NET for sure. 
-- Spring boot, Althought that was not my familiar framwork｡ﾟヽ(ﾟ´Д`)ﾉﾟ｡
-- OpenAPI Icon Build RESTful API with Swagger.
-- Transact-SQL(on Microsoft SQL Server)
-- Store procedure(Mincrosoft SQL Server Management Studio)
-- MySQL(on phpmyadmin)
-- SQLite
-- Node JS - Express
-- PHP but only on codeigniter framwork.
-- IIS 7, for sure.
-- Cosmos DB
-- ELK, I'm still investigating...U_U 
+---
 
-## Other Skills
-- Git, for sure.
-- Apache Subversion.
-- Adobe XD Icon Adobe XD, used for design web and application views.
-- AngularJs and VueJs, life is difficult. ╮(╯_╰)╭
-- Experence with Azure DevOps CI/CD pipeline
-- Experence with Azure cloud service(AKS, Function apps, service bus, etc...)
-- Docker, for sure.
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuanchengliu&show_icons=true&locale=en&layout=compact" alt="kuanchengliu" /></p>
+### 📫 Connect with me
+* **LinkedIn:** [Your LinkedIn Profile Link]
+* **Expertise:** Distributed Systems, Cloud Migration, Performance Tuning, and Troubleshooting.
