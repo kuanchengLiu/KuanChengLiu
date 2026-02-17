@@ -29,14 +29,3 @@ I enjoy documenting complex technical challenges and their solutions:
 | **DevOps** | Azure DevOps Pipelines, GitFlow, CI/CD Automation |
 | **Monitoring** | Elastic Stack (ELK), Kibana, Fleet, Prometheus/Grafana |
 
----
-
-### 📈 Stats
-![Tommy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuanchengliu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kuanchengliu&show_icons=true&layout=compact&theme=radical)
-
----
-
-### 📫 Connect with me
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Expertise:** Distributed Systems, Cloud Migration, Performance Tuning, and Troubleshooting.
